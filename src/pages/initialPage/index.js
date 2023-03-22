@@ -9,6 +9,7 @@ function InitialPage({}){
     return(
         <div className="container">
             <NavBar/>
+            <h1>Inicios da pagina</h1>
         </div>
     )
 }
